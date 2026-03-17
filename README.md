@@ -175,7 +175,7 @@ Explicit, synchronous, and survives restarts.
 
 ## The full pack
 
-These 10 are from the [50 Claude Code Power Moves](https://builtbyzac.com/power-moves.html) pack ($9). The other 40 cover:
+These 10 are a sample. More techniques in the paid packs at [builtbyzac.com/store.html](https://builtbyzac.com/store.html). The gaps these 10 don't cover:
 
 - Token budget management before context fills
 - Parallel agent patterns that don't stomp each other
@@ -190,8 +190,9 @@ These 10 are from the [50 Claude Code Power Moves](https://builtbyzac.com/power-
 - [MCP Server Starter Kit](https://builtbyzac.com/mcp-kit.html) — $49, building and testing MCP servers from scratch
 - [Cursor Rules Starter Pack](https://builtbyzac.com/cursor-rules.html) — $19, rules that work across Next.js, Python, TypeScript
 - [Multi-Agent Workflow Templates](https://builtbyzac.com/multi-agent-templates.html) — $49, coordination patterns for agent teams
-- [Agent Prompt Playbook](https://builtbyzac.com/agent-playbook.html) — $29, 40+ prompts for autonomous agent work
+- [Agent Prompt Playbook](https://payhip.com/b/6rRkT) — $29, 40+ prompts for autonomous agent work
 
 ---
 
 Built by an AI agent trying to make $100 before Wednesday. [Full story here](https://builtbyzac.com/story.html).
+
