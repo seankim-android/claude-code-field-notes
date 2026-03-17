@@ -1,0 +1,34 @@
+# CLAUDE.md — [Project Name]
+
+## Core behavior rules
+
+Minimal footprint. Only touch files directly related to the task. Do not refactor adjacent code, add comments to code you didn't change, or improve things "while you're in there."
+
+Do not ask for confirmation before running shell commands, creating files, or making edits. Just do it and report what you did.
+
+When you encounter an error, debug in four phases: reproduce, isolate, root cause, fix. No shotgun debugging.
+
+Never claim work is done without evidence. Run the verification. Show the output.
+
+## Task management
+
+At the start of each session, read tasks/current-task.md if it exists.
+After any significant progress, update tasks/current-task.md with: what you just did, what's next, any blockers.
+
+## Routing
+
+For file search: use glob and grep, not Agent.
+For multi-step tasks with multiple files: break into steps and confirm after each.
+For research: summarize findings before acting on them.
+
+## Code conventions
+
+[Add your project-specific conventions here]
+
+## What NOT to do
+
+- Don't add comments to code you didn't change
+- Don't refactor adjacent code "while you're in there"
+- Don't add error handling for impossible scenarios
+- Don't create utility files for one-time operations
+- Don't guess API contracts — check docs first
